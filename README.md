@@ -14,7 +14,7 @@ read the full privacy policy at the link below.
 
 ## privacy policy
 
-hosted at: `[https://yourusername.github.io/ai-article-summarizer-privacy](https://dkim2448.github.io/ai-article-summarizer-privacy/)`
+hosted at: [https://yourusername.github.io/ai-article-summarizer-privacy](https://dkim2448.github.io/ai-article-summarizer-privacy/)
 
 ## contact
 
